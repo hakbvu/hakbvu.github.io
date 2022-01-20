@@ -1,1 +1,0 @@
-<?php exit;?>s:153:"{"type":"url","value":"http://hoorayos.com/demo/extapp/clock/index.php","icon":"time.png","options":{"width":"140","height":"140","simple":1,"resize":0}}";
